@@ -1,0 +1,4 @@
+This is an example of using an App Script that loads an Active Google Sheet with Data from a MySQL Database
+Step-by-step guide
+The Select statement is selecting all fields from the database
+It then starts putting the fields gathered in order starting at Cell F7
